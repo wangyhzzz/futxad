@@ -27,7 +27,7 @@ int main(int argc,_TCHAR* argv[])
         for(i=values.begin();i!= values.end();i++){
             (hwnd = FindWindow(("TXGuiFoundation"),(i->pItem)))&&SendMessage(hwnd,WM_SYSCOMMAND,SC_CLOSE,NULL);
         }
-        Sleep(5000);
+        Sleep(1000);
     }
     return 0;
 }

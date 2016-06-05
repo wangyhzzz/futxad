@@ -7,7 +7,7 @@
 
 int main(int argc,_TCHAR* argv[])
 {
-    /* ShowWindow(GetConsoleWindow(),SW_HIDE); */ 
+    ShowWindow(GetConsoleWindow(),SW_HIDE); 
     /* CSimpleIniA ini; */
     CSimpleIni ini(false,true,false);
     ini.SetUnicode();

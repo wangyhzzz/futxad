@@ -4,7 +4,12 @@ title: 屏蔽腾讯弹窗
 permalink: /
 ---
 
-# 下载链接 :[futxad.tar](http://pan.baidu.com/s/1kVlNA2z)
+# 简介
+也许会有人跟我一样,觉得QQ右下角的弹窗很烦人,信息质量很低,经常都是一些负面新闻,从而想屏蔽掉它
+
+QQ自身并不提供取消弹窗的设置,所以我就自己写了这么一个工具
+
+# 下载链接 : [ futxad.tar](http://pan.baidu.com/s/1kVlNA2z)
 
 
 # 使用方式
